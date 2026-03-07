@@ -29,5 +29,3 @@ It uses a carefully selected pastel color palette to highlight the syntax of you
 5. Select **Pastel - Theme**.
 
 ---
-
-Made with 💜 by **BR2E**
