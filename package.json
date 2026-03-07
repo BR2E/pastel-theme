@@ -1,0 +1,27 @@
+{
+  "name": "pastel-theme",
+  "displayName": "Pastel - Theme",
+  "description": "Pastel Dev is a modern pastel theme for Visual Studio Code that provides a calm, soft, and visually balanced coding experience while maintaining clear and readable syntax highlighting.",
+  "version": "0.0.1",
+  "publisher": "br2e",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BR2E/pastel-theme"
+  },
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastel - Theme-color-theme.json"
+      }
+    ]
+  }
+}
